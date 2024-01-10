@@ -1,0 +1,40 @@
+html {
+    font: size 200px;
+}
+body{
+    background-color: black;
+    color: white;
+
+}
+a{
+    color:rgb(211, 16, 152)
+}
+a:visited{
+    color: rgb(221, 233, 234);
+
+}
+a:hover,a:active{
+    color: rgb(59, 11, 201);
+
+}
+#First_section{
+    color: aqua;
+
+}
+#vacation{
+    color:orangered;
+
+}
+body{
+    color: rgb(246, 4, 137);
+}
+table, tr,th,td,caption{
+    border: 3px solid rgb(6, 199, 242);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+    
+}
+tfoot{
+    text-align: center;;
+}
